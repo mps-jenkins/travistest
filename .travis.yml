@@ -1,0 +1,7 @@
+language: android
+sudo: required
+jdk: oraclejdk8
+
+script:
+- pwd
+- ls
